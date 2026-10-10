@@ -1,6 +1,6 @@
 <img src="icon.png" width="128" alt="Monad Slice icon">
 
-# Monad Slice
+# Monad Slice™
 
 An instrument that plays slices of higher-dimensional shapes, tuned so nothing beats or grates. Smooth by design.
 
@@ -19,3 +19,8 @@ An instrument that plays slices of higher-dimensional shapes, tuned so nothing b
 - **Preferences** has three themes: Serene, Nostalgia Bait and DaVinci.
 
 This repo holds the downloads only.
+
+---
+
+Monad Slice™ by Bobbie D. © 2026 Bobbie D. All rights reserved.
+Monad Slice and Monad Slicer are trademarks of Bobbie D. Free to download and play; not licensed for redistribution or resale.
